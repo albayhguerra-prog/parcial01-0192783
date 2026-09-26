@@ -59,6 +59,7 @@ public class Ejercicio1 {
         for (int i = 0; i < cantidadSectores; i++) {
             System.out.println("Sector " + (i + 1) + ": " + sectores[i] + " m^3");
         }
+        System.out.println("Este código paso por tres crisis existenciales");
     }
 
     }

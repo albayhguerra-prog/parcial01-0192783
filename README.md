@@ -108,3 +108,11 @@ Construya un programa que:
 Entregue los dos archivos `.java`, debidamente nombrados y capaces de compilar y ejecutarse sin errores.
 
 **Antes de escribir código, identifique las entradas, el proceso y las salidas. El compilador detecta errores de sintaxis; la lógica todavía corre por cuenta del programador.**
+
+**Ejercicio 1**
+Tuve que modificar el for para que estuvieran bien los datos de salida de los consumos y agregar un do while para que el usuario no pudiera ingrsar datos negativos, cambie un if por for para sacar el consumo mayor que promedio ya que con el if era muy extenso, y agrege lo dee la racha y el de mayor consumo, y por ultimo los System para mostar los resultados.
+
+**Ejercicio 2**
+Se declaro las constantes fuera del class, declaramos variables y la matriz bidimensional que se pedia, utilizamos Scanner para los datos de entrada, utilice varios for para las diferentes funciones que nos pedian como el ingreso de las producciones de las maquinas por los dias, para ir sumando y asi, al final se muestra los datos de salida.
+
+**Profe si lee esto, significa que llego hasta el final. Gracias por su servicio**
